@@ -28,13 +28,16 @@ As telas foram feitos usando a biblioteca do swing disponível no java, ou seja,
 
 ![image](https://github.com/migueelfr/DINO-TECH/assets/142853940/24443395-767b-4828-8a9a-7e71d046f5a3)
 
-3. Execute `npm start`
+3. Então é so executar o main da classe ConexaoSQL e o banco de dados será conectado.
 
-## Tecnologias Utilizadas
-- Node.js
-- React
-- MongoDB
-
+## Bibliotecas Utilizadas
+- Para o Banco de Bados
+- import java.sql.Connection -  conexão (sessão) com um banco de dados específico;
+- import java.sql.DriverManager - Gerencia um conjunto de drivers JDBC;
+- java.sql.SQLException - Para caso ocorra um Excessão SQL;
+- import java.util.logging.Level - Define um conjunto de níveis padrão de log que controlam a saída de mensagens de log;
+- import java.util.logging.Logger - É usado para registrar mensagens de aplicação no Java Logging API;
+- 
 ## Contribuidores
 - @fulano
 - @ciclano
