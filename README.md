@@ -6,11 +6,13 @@
 ## Descrição
 Este é um projeto de uma loja com peças de computador. A porposta da loja é vender peças como processadores, SSDs, coolers, e outros itens de hardware.
 
-Usamos a linguagem java e o banco de dados SQLite com a dependência do driver sqlite-jdbc-3.20.0
+Usamos a linguagem java e o banco de dados SQLite com a dependência do driver sqlite-jdbc-3.20.0.jar
 
 Também é necessário baixar o Plugin para ver as tabelas:
 
 ![image](https://github.com/migueelfr/DINO-TECH/assets/142853940/9393245a-387d-45c2-8520-8fb25189c22d)
+
+As telas foram feitos usando a biblioteca do swing disponível no java, ou seja, é uma interface desktop.
 
 
 ## Funcionalidades
