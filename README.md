@@ -29,6 +29,7 @@ As telas foram feitos usando a biblioteca do swing disponível no java, ou seja,
 ![image](https://github.com/migueelfr/DINO-TECH/assets/142853940/24443395-767b-4828-8a9a-7e71d046f5a3)
 
 3. Então é so executar o main da classe ConexaoSQL e o banco de dados será conectado.
+4. E para ver o codigo em seu PC, baixe o .zip e extraia, porque houveram muitos arquivos e nao foi aceito toda a pasta do LOJA.GUI no diretório.
 
 ## Bibliotecas Utilizadas
 PARA O BANCO DE DADOS:
