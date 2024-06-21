@@ -5,6 +5,7 @@
 
 ## Descrição
 Este é um projeto de uma loja com peças de computador. A porposta da loja é vender peças como processadores, SSDs, coolers, entre outras coisas do tipo.
+
 Usamos a linguagem java e o banco de dados SQLite com a dependência do driver sqlite-jdbc-3.20.0
 Também é necessário baixar o Plugin para ver as tabelas:
 
