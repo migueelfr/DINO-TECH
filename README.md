@@ -54,3 +54,6 @@ PARA AS TELAS:
 ## Final
 Este é um projeto bem simples da Faculdade, não possui funcionalidades impressionantes ou uma interface excelente, foi apenas algo para testar nosso conhecimento basico em java.
 OBRIGADO PELA ATENÇÃO!!!
+
+## Funcionamento
+<img Demonstração="Demonstração/Interface2.mkv
