@@ -31,13 +31,14 @@ As telas foram feitos usando a biblioteca do swing disponível no java, ou seja,
 3. Então é so executar o main da classe ConexaoSQL e o banco de dados será conectado.
 
 ## Bibliotecas Utilizadas
-- Para o Banco de Bados
+PARA O BANCO DE DADOS:
 - import java.sql.Connection -  conexão (sessão) com um banco de dados específico;
 - import java.sql.DriverManager - Gerencia um conjunto de drivers JDBC;
 - java.sql.SQLException - Para caso ocorra um Excessão SQL;
 - import java.util.logging.Level - Define um conjunto de níveis padrão de log que controlam a saída de mensagens de log;
 - import java.util.logging.Logger - É usado para registrar mensagens de aplicação no Java Logging API;
-- 
+PARA AS TELAS:
+- import javax.swing.* - Biblioteca que fornece os metodos para criação de botões, textos, cores, scrolls e tudo que seja necessário para fazer as telas. Só é possível utilizar as outras bibliotecas para essas ações por conta do swing, mas como são muitas, irei citar apenas algumas.
 ## Contribuidores
 - @fulano
 - @ciclano
