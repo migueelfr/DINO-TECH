@@ -39,10 +39,17 @@ PARA O BANCO DE DADOS:
 - import java.util.logging.Logger - É usado para registrar mensagens de aplicação no Java Logging API;
 
 PARA AS TELAS:
-- import javax.swing.* - Biblioteca que fornece os metodos para criação de botões, textos, cores, scrolls e tudo que seja necessário para fazer as telas. Só é possível utilizar as outras bibliotecas para essas ações por conta do swing, mas como são muitas, irei citar apenas algumas.
-## Contribuidores
-- @fulano
-- @ciclano
+- import javax.swing.* - Biblioteca que fornece os metodos para criação de botões, textos, cores, scrolls e tudo que seja necessário para fazer as telas. Só é possível utilizar as outras bibliotecas para essas ações por conta do swing, mas como são muitas, serão citadas apenas algumas.
+- import java.awt.event.ActionEvent - Usada para ações de botões, etc;
+- import java.awt.* - Tem função parecida com a do swing;
+- import java.util.ArrayList- Usada para armazenar uma quantidade de itens;
+- import java.awt.event.WindowAdapter - Usada para receber eventos de janela em Java, fornecendo métodos vazios para todos os eventos de interesse;
+- import java.awt.datatransfer.Clipboard - Usada para implementar um mecanismo de transferência de dados usando operações de corte/cópia/cola;
 
-## Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+## Contribuidores
+- @brksam
+- @migueelfr
+
+## Final
+Este é um projeto bem simples da Faculdade, não possui funcionalidade impressionantes ou uma interface excelente, foi apenas algo para testa nosso conhecimento basico em java.
+OBRIGADO PELA ATENÇÃO!!!
