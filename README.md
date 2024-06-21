@@ -5,15 +5,15 @@
 
 ## Descrição
 Este é um projeto de uma loja com peças de computador. A porposta da loja é vender peças como processadores, SSDs, coolers, e outros itens de hardware.
--
+
 Usamos a linguagem java e o banco de dados SQLite com a dependência do driver sqlite-jdbc-3.20.0.jar, então voce precisara baixa-lo.
--
+
 Também é necessário baixar o Plugin para ver as tabelas:
--
+
 ![image](https://github.com/migueelfr/DINO-TECH/assets/142853940/9393245a-387d-45c2-8520-8fb25189c22d)
 
 As telas foram feitos usando a biblioteca do swing disponível no java, ou seja, é uma interface desktop.
--
+
 ## Funcionalidades
 - Tela de login para o usuario entrar com seu usuario a senha.
 - Tela de criação de conta.
@@ -53,7 +53,7 @@ PARA AS TELAS:
 ## Final
 Este é um projeto bem simples da Faculdade, não possui funcionalidades impressionantes ou uma interface excelente, foi apenas algo para testar nosso conhecimento basico em java.
 OBRIGADO PELA ATENÇÃO!!!
--
+
 ## Interface Rodando 
 
 
